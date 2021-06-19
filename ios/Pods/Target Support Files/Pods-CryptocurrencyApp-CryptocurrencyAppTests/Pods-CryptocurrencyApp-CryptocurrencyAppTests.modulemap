@@ -1,0 +1,6 @@
+module Pods_CryptocurrencyApp_CryptocurrencyAppTests {
+  umbrella header "Pods-CryptocurrencyApp-CryptocurrencyAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
